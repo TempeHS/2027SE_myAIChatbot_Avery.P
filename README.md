@@ -18,6 +18,22 @@ My AI chatbot will be capable of having light conversations with people about no
 - How/where to download your program
 - Any modifications needed to be made to files/folders
 
+## Testing
+
+### User Acceptance Testing Results
+
+Tested on: [13/10/2026]
+Tester: [Avery P]
+
+| Test ID | Description               | Status  |
+| ------- | ------------------------- | ------- |
+| TC-001  | Normal message response   | ✅ Pass |
+| TC-002  | Empty message handling    | ✅ Pass |
+| TC-003  | Message length validation | ✅ Pass |
+| TC-004  | Crisis Keyword detection  | ✅ Pass |
+| TC-005  | Disclaimer Visibility     | ✅ Pass |
+| TC-006  | Message Styling           | ✅ Pass |
+
 ### Executing program
 
 - How to run the program
